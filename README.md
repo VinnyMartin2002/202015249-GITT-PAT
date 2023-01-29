@@ -17,14 +17,12 @@ Un repositorio para empezar a usar Github y Github Actions con Java.
  En este pdf usted encontrará la explicación de la funcionalidad de los siguientes comandos:
 
 ```
-git clone https://github.com/gitt-3-pat/hello-world
+git clone
 git status
-git add .
-git commit -m "TU MENSAJE"
+git add
+git commit
 git push
-
-git checkout -b feature/1
-git checkout main
+git checkout
 ```
  Además encontrará la prueba de que se han descargado los programas indicados en la práctica1.
 
